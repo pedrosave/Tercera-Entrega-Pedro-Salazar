@@ -1,0 +1,12 @@
+.cardProduct{
+    width: 200px;
+    margin: 10px;
+    padding: 20px 0;
+    text-align: center;
+}
+#products{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
